@@ -9,6 +9,7 @@ This is a list of awesome quantum computing applicaitons (e.g. quantum computing
 ## Contents
 - [Books](#books)
 - [Products](#products)
+- [Projects](#projects)
 - [Papers](#papers)
   - [Survey](#survey)
   - [ML for Quantum Computing](#ml-for-quantum-computing)
@@ -25,4 +26,5 @@ This is a list of awesome quantum computing applicaitons (e.g. quantum computing
 ## Products
 - [D-Wave](https://github.com/dwavesystems/dwave-ocean-sdk)
 
-
+## Projects
+- [MIT Quantum ML](https://qmlsys.mit.edu/)
