@@ -31,4 +31,4 @@ This is a list of awesome quantum computing applicaitons (e.g. quantum computing
 - [Google Cirq](https://github.com/quantumlib/cirq)
 
 ## Papers
-- [Kim, Minsung, et al. "Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516) by Kim, Minsung, et al., MobiCom 2022
+- [Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516) by Kim, Minsung, et al., MobiCom 2022
