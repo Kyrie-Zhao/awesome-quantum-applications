@@ -28,3 +28,4 @@ This is a list of awesome quantum computing applicaitons (e.g. quantum computing
 
 ## Projects
 - [MIT Quantum ML](https://qmlsys.mit.edu/)
+- [Google Cirq](https://github.com/quantumlib/cirq)
