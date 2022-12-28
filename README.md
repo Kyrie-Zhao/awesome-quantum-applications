@@ -14,6 +14,7 @@ This is a list of awesome quantum computing applicaitons (e.g. quantum computing
   - [Survey](#survey)
   - [ML for Quantum Computing](#ml-for-quantum-computing)
   - [Quantum Computing for ML](#quantum-computing-for-ml)
+  - [Quantum Computing for Wireless](#quantum-computing-for-wireless)
   - [Quantum Compiler](#quantum-compiler)
   - [Quantum Circuits](#quantum-circuits)
   - [Quantum Computing for IoT](#quantum-computing-for-iot)
